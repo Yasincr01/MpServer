@@ -1,0 +1,66 @@
+{
+  "allVideos": [
+    {
+      "id": "070c",
+      "caption": "JavaScript",
+      "url": "https://4.bp.blogspot.com/-s2EhTt57oeU/XHtQtO1QNLI/AAAAAAAANW8/KYkPQEZUyocSpA2RzqCcVt31imXPi63RACLcBGAs/s1600/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
+      "link": "https://www.youtube.com/embed/Pyv0tMm5i_w"
+    },
+    {
+      "id": "f5e6",
+      "caption": "CSS",
+      "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+      "link": "https://www.youtube.com/embed/1PnVor36_40"
+    },
+    {
+      "id": "684b",
+      "caption": "Kishkindha Kaandam",
+      "url": "https://billetto.imgix.net/v4dlp8gu3merakvyk2kmlq9xcppu?w=1440&h=810&fit=crop&auto=compress%2Cformat&rect=0%2C0%2C800%2C450&s=6744d527ef08021feee54f910c28b3f8",
+      "link": "https://www.youtube.com/embed/6jR7lL-o7js"
+    },
+    {
+      "id": "4082",
+      "caption": "Leo Trailer",
+      "url": "https://i.ytimg.com/vi/ivDKRcqb6FI/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/Po3jStA673E"
+    }
+  ],
+  "categories": [
+    {
+      "id": "a498",
+      "categoryName": "Tutorials",
+      "allVideos": []
+    },
+    {
+      "id": "06db",
+      "categoryName": "Trailers",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "4524",
+      "caption": "JavaScript",
+      "link": "https://www.youtube.com/embed/Pyv0tMm5i_w",
+      "timeStamp": "10/3/2024, 3:08:36 PM GMT+5:30"
+    },
+    {
+      "id": "a2ac",
+      "caption": "Arm Trailer",
+      "link": "https://www.youtube.com/embed/EkSV1aJg928",
+      "timeStamp": "10/4/2024, 2:05:42 PM GMT+5:30"
+    },
+    {
+      "id": "1e3f",
+      "caption": "Leo Trailer",
+      "link": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "10/4/2024, 2:23:20 PM GMT+5:30"
+    },
+    {
+      "id": "b59c",
+      "caption": "CSS",
+      "link": "https://www.youtube.com/embed/1PnVor36_40",
+      "timeStamp": "10/7/2024, 2:39:05 PM GMT+5:30"
+    }
+  ]
+}
